@@ -1,7 +1,0 @@
-version: "3.0"
-services:
-  recipe_recommendation:
-    build:
-      context: .
-    ports:
-      - "8000:8000"
